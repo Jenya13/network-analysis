@@ -3,7 +3,8 @@
 works with:
 python version 2.7.*
 networkx 2.2
+matplotlib
 
-books_co_purchase analyze a network of books about US politics 
-published around the time of the 2004 presidential election and sold by the online bookseller Amazon.com.
-Edges between books represent frequent copurchasing of books by the same buyers. 
+these examples of analysis of different cinds of social networks using networkx
+library for graphs and matplotlib for visualization.
+
