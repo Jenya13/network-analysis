@@ -1,0 +1,15 @@
+
+
+
+
+Deezer is an Internet-based music streaming service.
+
+About the dataset:
+
+"The data was collected from the music streaming service Deezer (November 2017). 
+These datasets represent friendship networks of users from 3 European countries.
+Nodes represent the users and edges are the mutual friendships. 
+The csv files contain the edges -- nodes are indexed from 0. 
+The json files contain the genre preferences of users -- each key is a user id, the genres loved are given as lists."
+
+You can download the dataset following this link: https://snap.stanford.edu/data/gemsec-Deezer.html
